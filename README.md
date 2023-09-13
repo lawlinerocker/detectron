@@ -13,7 +13,7 @@ into .json to let the model learning the new datasets.
 
 
 There's the result in "folder1"
-![Screenshot_2022-04-04_011811](https://github.com/lawlinerocker/detectron/assets/38174412/b8eb45fb-32c6-4614-9f9c-b421f086cf4e)![Screenshot_2022-04-04_011714](https://github.com/lawlinerocker/detectron/assets/38174412/d8e2afed-a13b-4cf9-bfe1-6fcf31392d33)![Screenshot_2022-04-04_011725](https://github.com/lawlinerocker/detectron/assets/38174412/d13eedea-af2e-473d-9656-0db127b510d4)
+![Screenshot_2022-04-04_011811](https://github.com/lawlinerocker/detectron/assets/38174412/b8eb45fb-32c6-4614-9f9c-b421f086cf4e)![Screenshot_2022-04-04_011714](https://github.com/lawlinerocker/detectron/assets/38174412/d13eedea-af2e-473d-9656-0db127b510d4)(https://github.com/lawlinerocker/detectron/assets/38174412/d8e2afed-a13b-4cf9-bfe1-6fcf31392d33)![Screenshot_2022-04-04_011725]
 
 
 
