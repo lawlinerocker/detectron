@@ -13,22 +13,27 @@ into .json to let the model learning the new datasets.
 
 
 There's the result in "folder1"
-![Screenshot_2022-04-04_011811](https://github.com/lawlinerocker/detectron/assets/38174412/b8eb45fb-32c6-4614-9f9c-b421f086cf4e)![Screenshot_2022-04-04_011714](https://github.com/lawlinerocker/detectron/assets/38174412/d13eedea-af2e-473d-9656-0db127b510d4)(https://github.com/lawlinerocker/detectron/assets/38174412/d8e2afed-a13b-4cf9-bfe1-6fcf31392d33)![Screenshot_2022-04-04_011725]
+![Screenshot_2022-04-04_011811](https://github.com/lawlinerocker/detectron/assets/38174412/53df81c2-56e6-4e44-a885-3c8479fccbfc)![Screenshot_2022-04-04_011614](https://github.com/lawlinerocker/detectron/assets/38174412/1904a5da-cc25-430a-b8b3-1921bb148642)![Screenshot_2022-04-04_011714](https://github.com/lawlinerocker/detectron/assets/38174412/e19e46ba-e5a1-45fd-866a-a30b90706f50)![Screenshot_2022-04-04_011725](https://github.com/lawlinerocker/detectron/assets/38174412/7a2a8b0d-f1a1-43aa-866c-823a8483feb7)
+
+
+
+
 
 
 
 Here are somes of the results from the last time config was from 1,200 datasets and 1,500 iterations with no CUDA:
+![unknown](https://github.com/lawlinerocker/detectron/assets/38174412/9d194c11-b161-4b2e-a181-2172008d787a)
+![a](https://github.com/lawlinerocker/detectron/assets/38174412/ccffc22d-4600-48d7-a250-05a4989c7c73)
+![4](https://github.com/lawlinerocker/detectron/assets/38174412/8098f465-abb8-43cb-aaa3-806241a99a8a)
+![51](https://github.com/lawlinerocker/detectron/assets/38174412/95bd7081-e44e-40b8-aa13-49777ad6535a)
+![465](https://github.com/lawlinerocker/detectron/assets/38174412/8e660d66-1322-46c1-aac5-2eb31864faac)
 
 
-![unknown](https://github.com/lawlinerocker/detectron/assets/38174412/225d5d21-9c61-4682-9089-530ee96544e2)![Screenshot_2022-04-04_011811](https://github.com/lawlinerocker/detectron/assets/38174412/ecc75ff6-530d-4ff7-a7a7-7eebd4b3fc58)![4](https://github.com/lawlinerocker/detectron/assets/38174412/c68f64d5-ec95-4d97-a10f-744b82a92659)
-![51](https://github.com/lawlinerocker/detectron/assets/38174412/a59e91ba-f501-47f9-843d-b66127249c32)
-![465](https://github.com/lawlinerocker/detectron/assets/38174412/d6c0577f-1423-4457-9ba7-fc52be23edab)
 
 
-With CUDA :
-
-![fasd](https://github.com/lawlinerocker/detectron/assets/38174412/535d1ff8-4a9b-4d0b-8a8d-627a992e7a34)
-![asdasd](https://github.com/lawlinerocker/detectron/assets/38174412/7facef4e-630d-48da-8933-ac53b6e2b6d5)
-![asfas](https://github.com/lawlinerocker/detectron/assets/38174412/5ba70926-9474-41c2-95e6-364c2dad86ea)
-![gasdasd](https://github.com/lawlinerocker/detectron/assets/38174412/8601ca8b-4c8d-4f03-8a3d-600509801fc2)
+With CUDA On:
+![fasd](https://github.com/lawlinerocker/detectron/assets/38174412/3ddd5884-14ba-4364-804d-7c2509755821)
+![asdasd](https://github.com/lawlinerocker/detectron/assets/38174412/61fa9f7d-7c13-4c2b-ba7f-1599ac6da24c)
+![asfas](https://github.com/lawlinerocker/detectron/assets/38174412/a988b5c4-e074-45fb-b259-4a4093f3a99f)
+![gasdasd](https://github.com/lawlinerocker/detectron/assets/38174412/c19df498-457a-4c41-af1d-47b00d9c5f77)
 
