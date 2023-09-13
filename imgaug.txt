@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1dd62309bf16c97e99e839d3245a1ccb64f9cfd6cc64fcaa89dd7a035d4773fd
-size 416
+https://imgaug.readthedocs.io/en/latest/source/examples_segmentation_maps.html
+https://imgaug.readthedocs.io/en/latest/source/examples_segmentation_maps.html#notebook
+https://imgaug.readthedocs.io/en/latest/source/examples_keypoints.html
+https://imgaug.readthedocs.io/en/latest/source/jupyter_notebooks.html#page-jupyter-notebooks
+https://github.com/aleju/imgaug/issues/234
+
+
+tensorboard --logdir path/to/logs

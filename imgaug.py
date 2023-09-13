@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ac5930fc9b265576719a67fe04f473472b19ac7fe50bd36f63ab7cb6d192807
-size 359
+import imgaug as ia
+import imgaug.augmenters as iaa
+import imageio
+import numpy as np
+from imgaug.augmentables import Keypoint, KeypointsOnImage
+
+ia.seed(1)
+image=imageio.imread("295fe953ea5ccc524c913e30a770900f.jpg")
+
+images = np.array(
+    [image for _ in range(32)], dtype=np.uint8)  # 32 means creat 32 enhanced images using following methods.
