@@ -3,6 +3,9 @@ This is part of the project for object detection by using detectron2 to help lea
 
 
 In earlys, The main idea is to extract the data from the reciept, which help the POS to store the data into the databases.Due to early year in Bachelor's degree,turns out it's only a object detection.
+![test1](https://github.com/lawlinerocker/detectron/assets/38174412/444b575f-d9c3-4026-8a8c-52539891fe3b)
+![test2](https://github.com/lawlinerocker/detectron/assets/38174412/f7928a0a-25f4-4939-a48d-71d3a71314b3)
+![test](https://github.com/lawlinerocker/detectron/assets/38174412/ba6aa0ed-6bd8-4743-9385-4284a8fcd798)
 
 
 We were using the polygon x,y to extract the object. In this case reciepts
